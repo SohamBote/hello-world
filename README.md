@@ -1,3 +1,6 @@
+Student Pursuing B.E in ECS
+Java intern at MyDailyWork
+
 Task,Project,Core Objectives
 
 1,Number Game,Generate a random number (1-100) and have the user guess it with feedback (high/low) and score tracking.
